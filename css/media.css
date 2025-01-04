@@ -1,0 +1,26 @@
+
+@media only screen  and (min-width:960px )
+{
+    .wrapper
+    {
+        border: 1px solid red;
+        width: 100%;
+        
+     
+    }
+    .header
+    {
+        flex-direction: column;
+        width: 100%;
+        justify-content: center;
+    }
+    .header .logo
+    {
+        width: 100%;
+        text-align: center;
+
+
+    }
+
+
+}

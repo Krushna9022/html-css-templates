@@ -1,3 +1,4 @@
+@import url("media.css");
 *{
 	margin: 0;
 	padding: 0;
@@ -82,9 +83,7 @@
 	width:40%;
 	text-align:left;
 	top:50%;
-	left: 42%;
-	opacity:;
-
+	left: 42%;	
 	
 }
 .banner .banner-content h5
@@ -337,3 +336,5 @@
 	background:#17cad0 ;
 	margin-bottom: 20px;
 }
+
+
